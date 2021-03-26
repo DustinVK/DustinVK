@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @DustinVK. I am a software engineering student. 
 - 👀 I’m interested in machine learning, cloud computing, mobile and web development, applications development. 
-- 🌱 I’m currently learning how to build REST API endpoints with JAX-RS and Spring.
+- 🌱 I’m currently learning: 
+- * How to build REST API endpoints with JAX-RS and Spring
+- * Software architecture and design patterns
+- * Requirements engineering processes 
 - 💞️ I’m looking to collaborate on cool and interesting projects.
 - 📫 How to reach me: dustinvankrimpen@gmail.com
 
