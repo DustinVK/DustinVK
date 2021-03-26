@@ -4,6 +4,7 @@
 - * How to build REST API endpoints with JAX-RS and Spring
 - * Software architecture and design patterns
 - * Requirements engineering processes 
+- * Intermediate and advanced data structures and algorithms 
 - 💞️ I’m looking to collaborate on cool and interesting projects.
 - 📫 How to reach me: dustinvankrimpen@gmail.com
 
