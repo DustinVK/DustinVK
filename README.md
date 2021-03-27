@@ -4,7 +4,7 @@
 - * How to build REST API endpoints with JAX-RS and Spring
 - * Software architecture and design patterns
 - * Requirements engineering processes 
-- 💞️ I’m looking to collaborate on cool and interesting projects.
+- 💞️ I’m looking to collaborate on cool and interesting projects, web apps, mobile apps, games, open source software. 
 - 📫 How to reach me: dustinvankrimpen@gmail.com
 
 <!---
