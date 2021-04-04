@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DustinVK. I am a software engineering student at Ferris State University. 
+- 👋 Hi, I’m @DustinVK. I am a (dmse) software engineering student at Ferris State University. 
 - 👀 I’m interested in machine learning, cloud computing, mobile and web development, applications development. 
 - 🌱 I’m currently learning: 
 - * How to build REST API endpoints with JAX-RS and Spring
