@@ -2,8 +2,8 @@
 - 👀 I’m interested in machine learning, cloud computing, mobile and web development, applications development. 
 - 🌱 I’m currently learning: 
 - * How to build RESTful web services in Java Spring and C# ASP.net Core
-- * How to model machine learning problems
-- * Linear Algebra concepts 
+- * Machine Learning theory and modeling
+- * Deploying applications to cloud infrastructure (AWS) 
 - 💞️ I’m looking to collaborate on cool and interesting projects, web apps, mobile apps, games, open source software. 
 - 📫 How to reach me: dustinvankrimpen@gmail.com
 
