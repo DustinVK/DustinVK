@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DustinVK. I will have a BS in Digital Media Software Engineering in August 2022. 
+- 👋 Hi, I’m Dustin VanKrimpen, @DustinVK. I will have a BS in Digital Media Software Engineering in August 2022. 
 - 👀 Interested in web/mobile development, machine learning, cloud computing, applications development. 
 - 💻 Currenly working as a Software Engineering intern. 
 - 💞️ Open to collaborating on cool and interesting projects, web apps, mobile apps, games, open source software. 
