@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @DustinVK. I am a software engineering (dmse) student at Ferris State University. 
-- 👀 I’m interested in machine learning, cloud computing, mobile and web development, applications development. 
-- 🌱 I’m currently learning: 
-- * Building highly scalable microservices for the web
-- * How to build and improve machine learning models
-- 💞️ I’m looking to collaborate on cool and interesting projects, web apps, mobile apps, games, open source software. 
+- 👋 Hi, I’m @DustinVK. I will have a BS in Digital Media Software Engineering in August 2022. 
+- 
+- 👀 I’m interested in web/mobile development, machine learning, cloud computing, applications development. 
+- 💞️ I’m open to collaborate on cool and interesting projects, web apps, mobile apps, games, open source software. 
 - 📫 How to reach me: dustinvankrimpen@gmail.com
 
 <!---
